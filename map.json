@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"..\/luki"
+         "target":"."
         }
     },
  "height":20,
@@ -306,7 +306,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/luki\/tileset\/cert_safety.png",
+         "image":"tileset\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -319,7 +319,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"..\/luki\/tileset\/food_and_drinks.png",
+         "image":"tileset\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -332,7 +332,7 @@
         {
          "columns":16,
          "firstgid":2049,
-         "image":"..\/luki\/tileset\/furniture.png",
+         "image":"tileset\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -345,7 +345,7 @@
         {
          "columns":32,
          "firstgid":3073,
-         "image":"..\/luki\/tileset\/haus_a.png",
+         "image":"tileset\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -358,7 +358,7 @@
         {
          "columns":9,
          "firstgid":5121,
-         "image":"..\/luki\/tileset\/mapUtilities.png",
+         "image":"tileset\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -390,7 +390,7 @@
         {
          "columns":16,
          "firstgid":5130,
-         "image":"..\/luki\/tileset\/misc.png",
+         "image":"tileset\/misc.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -428,7 +428,7 @@
         {
          "columns":8,
          "firstgid":6154,
-         "image":"..\/luki\/tileset\/pipo_base_1.png",
+         "image":"tileset\/pipo_base_1.png",
          "imageheight":1152,
          "imagewidth":256,
          "margin":0,
@@ -441,7 +441,7 @@
         {
          "columns":8,
          "firstgid":6442,
-         "image":"..\/luki\/tileset\/pipo_base_2.png",
+         "image":"tileset\/pipo_base_2.png",
          "imageheight":1216,
          "imagewidth":256,
          "margin":0,
@@ -454,7 +454,7 @@
         {
          "columns":8,
          "firstgid":6746,
-         "image":"..\/luki\/tileset\/pipo_base_3.png",
+         "image":"tileset\/pipo_base_3.png",
          "imageheight":1888,
          "imagewidth":256,
          "margin":0,
@@ -488,7 +488,7 @@
         {
          "columns":16,
          "firstgid":7218,
-         "image":"..\/luki\/tileset\/rc3-mullana-colors-128.png",
+         "image":"tileset\/rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -501,7 +501,7 @@
         {
          "columns":16,
          "firstgid":7346,
-         "image":"..\/luki\/tileset\/rc3-mullana-functionary.png",
+         "image":"tileset\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -514,7 +514,7 @@
         {
          "columns":16,
          "firstgid":7602,
-         "image":"..\/luki\/tileset\/rc3-mullana-neon-signs.png",
+         "image":"tileset\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -527,7 +527,7 @@
         {
          "columns":16,
          "firstgid":7858,
-         "image":"..\/luki\/tileset\/Kitchen-deco-Tilesset.png",
+         "image":"tileset\/Kitchen-deco-Tilesset.png",
          "imageheight":128,
          "imagewidth":512,
          "margin":0,
@@ -540,7 +540,7 @@
         {
          "columns":10,
          "firstgid":7922,
-         "image":"..\/luki\/tileset\/CC0Koile-PipoyaShelfMods.png",
+         "image":"tileset\/CC0Koile-PipoyaShelfMods.png",
          "imageheight":128,
          "imagewidth":320,
          "margin":0,
@@ -553,7 +553,7 @@
         {
          "columns":12,
          "firstgid":7962,
-         "image":"..\/luki\/tileset\/addwork.png",
+         "image":"tileset\/addwork.png",
          "imageheight":2048,
          "imagewidth":384,
          "margin":0,
